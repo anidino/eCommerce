@@ -35,5 +35,8 @@ The commented area of my code in the Models directory, Index.js file was given t
 
 ## Video Demo Part I - npm run seed & node server 
 
+https://user-images.githubusercontent.com/84213096/129650537-870dea4c-6d0c-4129-bd50-e4df109aae3f.mp4
+
 
 ## Video Demo Part II - test all routes in Insomia 
+https://drive.google.com/file/d/1xzJmpoyvG21mAM60MrDtzvP7-midbS5X/view 
